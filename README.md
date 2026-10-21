@@ -45,7 +45,7 @@
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 24 (see .nvmrc)
 - Telegram Bot tokens (3 bots)
 - Anthropic API key
 - `.env` configured
